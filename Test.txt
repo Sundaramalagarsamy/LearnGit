@@ -1,0 +1,50 @@
+28.09.2023
+
+Today activites:
+
+Create Azure Virtual Network
+Create Subnet
+Create Network Security Group (NSG)
+
+Resource group name - Azurevnetgroup
+
+subnet name - subnet1 and subnet2
+
+NSG Name - Security-Lab
+
+GitHub - commands
+
+Preparing for az204 certificate.
+
+29.09.2023:-
+
+Create Cosmos DB Account With Azure Portal
+
+Create Cosmos DB Container & Add Items To Container
+
+Time To Live (TTL) In Cosmos DB
+
+GUTHUB- Remote Repo
+
+Brown Bag session - SIMS  - Training attended.
+
+03.10.2023:-
+
+Preparing az204 certification.
+
+Creating and configuring the Load balancer.
+Creating and configuring the Application gateway.
+
+04.10.2023:-
+
+Client interview preparation and prerequisites for interviews workouts.
+GIT - Additional commands
+
+Implementing and configuring the ansible.
+05.10.2023:
+
+Creation and configuration of Fucntion app.
+
+12.10.2023:-
+
+Deploy App to Azure Kubernetes Services (AKS)
